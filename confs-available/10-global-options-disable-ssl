@@ -1,0 +1,3 @@
+; Disable support for insecure SSL protocol
+options = NO_SSLv2
+options = NO_SSLv3

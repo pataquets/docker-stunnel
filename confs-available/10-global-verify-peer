@@ -1,0 +1,3 @@
+; Authentication stuff needs to be configured to prevent MITM attacks
+; It is not enabled by default!
+verify = 2

@@ -1,0 +1,2 @@
+CApath = /etc/ssl/certs/
+;CAfile = /etc/certs/ca-certificates.crt
